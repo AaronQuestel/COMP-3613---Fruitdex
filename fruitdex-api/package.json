@@ -1,0 +1,23 @@
+{
+  "name": "fruitdex-api",
+  "version": "1.0.0",
+  "description": "- Using firebase as a backend to hold the user information adn to store images\r - Using redux to manage application wide state\r - Using React for the frontend Library\r - Material UI or Materialize\r - Express js to make code cleaner group code seperate routes properly\r - Using Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nicholas Smith",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.16.3"
+  }
+}
