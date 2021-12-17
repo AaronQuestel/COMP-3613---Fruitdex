@@ -10,6 +10,6 @@ Generate the url for the image and store it in the database.
 ## Folder `FruitDex-Website`
 
 This contains the working implementation for the Regional FruitDex Website
-- [*] User can login
-- [*] User can signup
-- [*] User can view the fruits 
+- [x] User can login
+- [x] User can signup
+- [x] User can view the fruits 
