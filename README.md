@@ -1,4 +1,6 @@
-# Two folders contain different versions of the project
+# Regional FruitDex
+
+## Two folders contain different versions of the project
 
 ## Folder `FruitDex/`
 
